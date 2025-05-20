@@ -1,0 +1,26 @@
+D:\CIS166\CustomerFormProject\CustomerFormProject\bin\Debug\CustomerFormProject.exe.config
+D:\CIS166\CustomerFormProject\CustomerFormProject\bin\Debug\CustomerFormProject.exe
+D:\CIS166\CustomerFormProject\CustomerFormProject\bin\Debug\CustomerFormProject.pdb
+D:\CIS166\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.csproj.AssemblyReference.cache
+D:\CIS166\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.frmAddCustomer.resources
+D:\CIS166\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.frmAddPurchase.resources
+D:\CIS166\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.frmCustomers.resources
+D:\CIS166\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.frmPurchases.resources
+D:\CIS166\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.Properties.Resources.resources
+D:\CIS166\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.csproj.GenerateResource.cache
+D:\CIS166\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.csproj.CoreCompileInputs.cache
+D:\CIS166\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.exe
+D:\CIS166\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.pdb
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\bin\Debug\CustomerFormProject.exe.config
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\bin\Debug\CustomerFormProject.exe
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\bin\Debug\CustomerFormProject.pdb
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.csproj.AssemblyReference.cache
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.frmAddCustomer.resources
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.frmAddPurchase.resources
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.frmCustomers.resources
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.frmPurchases.resources
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.Properties.Resources.resources
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.csproj.GenerateResource.cache
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.csproj.CoreCompileInputs.cache
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.exe
+D:\Older Courses\CIS166\W6ProjectReDo\CustomerFormProject\CustomerFormProject\obj\Debug\CustomerFormProject.pdb

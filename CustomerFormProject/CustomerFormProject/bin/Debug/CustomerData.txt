@@ -1,0 +1,4 @@
+Customer,Example,Customer
+Purchase,Peanut Butter,3.99,2
+Purchase,Wheat Bread,1.5,2
+Purchase,Strawberry Jam,4,1
